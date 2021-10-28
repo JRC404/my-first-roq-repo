@@ -1,2 +1,3 @@
 # my-first-roq-repo
-my first repo that I'll clone
+
+My first repo and I will be updating this over time.
